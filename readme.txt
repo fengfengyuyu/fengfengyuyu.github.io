@@ -7,3 +7,5 @@ I will cheer up!
 Creating a new branch is quick.
 
 Creating a new branch is quick and simple.
+
+No Fast forward!
