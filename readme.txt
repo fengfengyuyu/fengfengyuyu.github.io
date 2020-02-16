@@ -3,3 +3,5 @@ today is a sad day ,although i have been preparing for this day for long time. l
 Bye. Boss.
 
 I will cheer up!
+
+Creating a new branch is quick.
