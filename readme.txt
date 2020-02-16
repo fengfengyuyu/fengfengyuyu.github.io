@@ -5,3 +5,5 @@ Bye. Boss.
 I will cheer up!
 
 Creating a new branch is quick.
+
+Creating a new branch is quick & simple.
